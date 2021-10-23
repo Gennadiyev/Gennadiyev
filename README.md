@@ -1,16 +1,15 @@
-### Hi there 👋
+# Kunologist
 
-<!--
-**Gennadiyev/Gennadiyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://avatars.githubusercontent.com/u/19852747?v=4)
 
-Here are some ideas to get you started:
+Hello World!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is Kunologist from Shanghai, China.
+
+- An SJTU undergraduate majoring in Artificial Intelligence
+- Favorite language is **Lua**, then **Python** / **C++** / **Javascript**
+- Loves to make small games, tools and other stuff whenever possible :fish:
+- Loves music games
+- Gamedev-to-be (?)
+
+Feel free to browse around here!
