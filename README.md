@@ -4,12 +4,12 @@
 
 Hello World!
 
-This is Kunologist from Shanghai, China.
+This is Kunologist from Shanghai, China. :cn:
 
-- An SJTU undergraduate majoring in Artificial Intelligence
-- Favorite language is **Lua**, then **Python** / **C++** / **Javascript**
+- An SJTU undergraduate majoring in Artificial Intelligence :robot:
+- Favorite language is **Lua**, then **Python** / **C++** / **Javascript** :abacus:
 - Loves to make small games, tools and other stuff whenever possible :fish:
-- Loves music games
+- Loves music games :musical_keyboard:
 - Gamedev-to-be (?)
 
 Feel free to browse around here!
