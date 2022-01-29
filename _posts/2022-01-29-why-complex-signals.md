@@ -74,6 +74,25 @@ The real part and the imaginary part are not important in signal and systems. In
 
 And this puts an end to the mystery of the exponential form of a signal.
 
+## Acknowledgements
+
+### Offline resources
+
+- **John G. Proakis**. 2001. "Digital Signal Processing Principles, Algorithm and Applications," pp. 222-240
+
+### Online resources
+
+- [What does it mean to have a complex signal](https://electronics.stackexchange.com/questions/86271/what-does-it-mean-to-have-a-complex-signal), a StackExchange answer by [@Cannoliopsida](https://stackoverflow.com/users/9156/cannoliopsida)
+- [Why use complex numbders to represent amplitude and phase of AC](https://electronics.stackexchange.com/questions/128986), a StackExchange answer by [@Vladimir Cravero](https://stackoverflow.com/users/16993/vladimir-cravero)
+- etc.
+
+### Friends
+
+- **D.N.Doryokushitebishoujoninaru**, namely @Zhu Lin Ju Shi, @RichadoWonosas, @Phynon, etc.
+- **Xiangyun Rao**, a friend of mine who brought me ideas
+- **Shuqi Wang**, another friend of mine, sorry for asking similar problems over and over again
+- **Qi Fan**, another friend of mine who is really capable of calculating
+
 <!-- End of document -->
 
 <script>
