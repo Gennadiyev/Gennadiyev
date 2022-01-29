@@ -6,8 +6,8 @@ categories: [academic]
 comments: false
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css" integrity="sha384-MlJdn/WNKDGXveldHDdyRP1R4CTHr3FeuDNfhsLPYrq2t0UBkUdK2jyTnXPEK1NQ" crossorigin="anonymous">
-<script src="/assets/js/katex.min.js"></script>
-<script src="/assets/js/katex-auto-render.min.js"></script>
+<script src="/Gennadiyev/assets/js/katex.min.js"></script>
+<script src="/Gennadiyev/assets/js/katex-auto-render.min.js"></script>
 
 <!-- Begin of document -->
 
@@ -91,7 +91,7 @@ And this puts an end to the mystery of the exponential form of a signal.
 </script>
 
 <!-- Write GGB -->
-<script src="/assets/js/ggb123.js" crossorigin="anonymous"></script>
+<script src="/Gennadiyev/assets/js/ggb123.js" crossorigin="anonymous"></script>
 <script>
 window.onload = function() {
     for(var i=0; i<100; i++){
