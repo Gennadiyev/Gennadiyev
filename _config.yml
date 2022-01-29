@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 domain: "gennadiyev.github.io"
 url: "https://gennadiyev.github.io" # the base hostname & protocol for your site
-baseurl: "/Gennadiyev/" # the subpath of the site
+baseurl: "/Gennadiyev" # the subpath of the site
 
 permalink: /:year-:month/:title
 timezone:
