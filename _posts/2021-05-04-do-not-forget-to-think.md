@@ -5,13 +5,18 @@ date: 2021-05-02 12:19:33 +0800
 categories: [chinese,random]
 comments: true
 ---
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css" integrity="sha384-MlJdn/WNKDGXveldHDdyRP1R4CTHr3FeuDNfhsLPYrq2t0UBkUdK2jyTnXPEK1NQ" crossorigin="anonymous">
+<script src="/Gennadiyev/assets/js/katex.min.js"></script>
+<script src="/Gennadiyev/assets/js/katex-auto-render.min.js"></script>
+
 # 漫谈 2 - 令人担心的是忘记思想
 
 ## 从高中谈起
 
 高中里是个还不错的学生，自然有很多时间可以空闲下来做些自己喜欢的事情。高三也不例外。其实我从来是无心“努力学习”的，学习于我而言还是需要一个显式的内在动因才行。我能腾出好几个小时对着平板或者电脑写代码，却无心对着根本无解的高考语文阅读题提笔。
 
-毫不夸张地说，我身处上海最优秀的班级体之一。班里自然有许多学习极其刻苦的学生（和**极其极其**刻苦的学生），而与我关系最好的其实是一群读书并不是极其极其刻苦的那些同学。他们其中不乏有很多我仰慕、甚至是敬畏的“大佬”。
+毫不夸张地说，我身处上海最优秀的班级体之一。班里自然有许多学习极其刻苦的学生（和 **极其极其** 刻苦的学生），而与我关系最好的其实是一群读书并不是极其极其刻苦的那些同学。他们其中不乏有很多我仰慕、甚至是敬畏的“大佬”。
 
 >（我写下这番话时觉得自己颇有几分“窃 格瓦拉”的意味？）
 >
@@ -52,3 +57,18 @@ comments: true
 印象更深的，是某次宿舍拜访时看到屏幕上赫然是“大厂程序员面试视频”。这自然是关乎人的追求和价值的，而人的追求有时还关乎父母对你我的期望。提升自己的竞争力固然是可以理解的事实，但只在我看到那个标题的时候，内心波动不可谓小。
 
 但也就只一会，也就趋于理解了。毕竟，只从这一块屏幕，也并不能知道他/她的真实想法。一笑莞尔。
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+            delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false},
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+            ],
+            throwOnError : false
+        });
+    });
+</script>
+

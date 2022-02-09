@@ -6,6 +6,10 @@ categories: [chinese,random]
 comments: true
 ---
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css" integrity="sha384-MlJdn/WNKDGXveldHDdyRP1R4CTHr3FeuDNfhsLPYrq2t0UBkUdK2jyTnXPEK1NQ" crossorigin="anonymous">
+<script src="/Gennadiyev/assets/js/katex.min.js"></script>
+<script src="/Gennadiyev/assets/js/katex-auto-render.min.js"></script>
+
 # 漫谈 1 - 内卷于低龄教育
 
 ## 少年儿童图书馆
@@ -108,3 +112,18 @@ comments: true
 其实内卷，只能作为一种社会现象被解读，不能作为一道物理题被求解。
 
 感谢你看到了这里！我去写物理作业了。
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+            delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false},
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+            ],
+            throwOnError : false
+        });
+    });
+</script>
+
