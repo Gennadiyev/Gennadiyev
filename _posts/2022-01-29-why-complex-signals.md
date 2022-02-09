@@ -5,6 +5,7 @@ date: 2022-01-28 16:45:42 +0800
 categories: [academic]
 comments: false
 ---
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css" integrity="sha384-MlJdn/WNKDGXveldHDdyRP1R4CTHr3FeuDNfhsLPYrq2t0UBkUdK2jyTnXPEK1NQ" crossorigin="anonymous">
 <script src="/Gennadiyev/assets/js/katex.min.js"></script>
 <script src="/Gennadiyev/assets/js/katex-auto-render.min.js"></script>
@@ -68,7 +69,7 @@ Summing up, the exponential form of a signal is a shorthand to represent **two o
 
 Recall what we've learned from the circuit analysis course:
 
-$$U_1 = 3 + \mathrm{j} 4 \approx 5 \angle 53^{\circ} = 5\sin(\omega t + 53^\circ)$$
+$$U_1 = 3 + \mathrm{j} 4 \approx 5 \angle 53^{\circ} \Leftrightarrow 5\sin(\omega t + 53^\circ)$$
 
 The real part and the imaginary part are not important in signal and systems. Instead, the phase angle $\phi = 53^\circ$ and the amplitude $A = \sqrt{3^2 + 4^2}=5$ are important.
 
