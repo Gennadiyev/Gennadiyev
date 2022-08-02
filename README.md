@@ -13,3 +13,5 @@ This is Kunologist from Shanghai, China. :cn:
 - Gamedev-to-be (?)
 
 Feel free to browse around here!
+
+*Note: I use separate accounts for my offline code repositories, so some of the code-related commits that Kunologist (me) works on are not recorded under this GitHub account.*
