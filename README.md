@@ -1,6 +1,6 @@
 # Kunologist
 
-https://github-readme-stats.vercel.app/api?username=Gennadiyev&show_icons=true&theme=tokyonight
+![](https://github-readme-stats.vercel.app/api?username=Gennadiyev&show_icons=true&theme=tokyonight)
 
 ![](https://avatars.githubusercontent.com/u/19852747?v=4)
 
