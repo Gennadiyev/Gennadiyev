@@ -1,8 +1,8 @@
 # Kunologist
 
-![](https://avatars.githubusercontent.com/u/19852747?v=4)
+https://github-readme-stats.vercel.app/api?username=Gennadiyev&show_icons=true&theme=tokyonight
 
-Hello World!
+![](https://avatars.githubusercontent.com/u/19852747?v=4)
 
 This is Kunologist from Shanghai, China. :cn:
 
@@ -13,5 +13,7 @@ This is Kunologist from Shanghai, China. :cn:
 - Gamedev-to-be (?)
 
 Feel free to browse around here!
+
+![](https://github-profile-trophy.vercel.app/?username=Gennadiyev&column=7&theme=onedark)
 
 *Note: I use separate accounts for my offline code repositories, so some of the code-related commits that Kunologist (me) works on are not recorded under this GitHub account.*
