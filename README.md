@@ -1,8 +1,6 @@
-# Kunologist
+# Kunologist (She / her)
 
 ![](https://github-readme-stats.vercel.app/api?username=Gennadiyev&show_icons=true&theme=tokyonight)
-
-![](https://avatars.githubusercontent.com/u/19852747?v=4)
 
 This is Kunologist from Shanghai, China. :cn:
 
@@ -12,7 +10,7 @@ This is Kunologist from Shanghai, China. :cn:
 - Loves music games :musical_keyboard:
 - Gamedev-to-be (?)
 
-Feel free to browse around here!
+Feel free to browse around here and contact me via mail: [jiyikun2002@gmail.com](jiyikun2002@gmail.com).
 
 ![](https://github-profile-trophy.vercel.app/?username=Gennadiyev&column=7&theme=onedark)
 
