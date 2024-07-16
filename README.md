@@ -14,4 +14,18 @@ Feel free to browse around here and contact me via mail: [jiyikun2002@gmail.com]
 
 ![](https://github-profile-trophy.vercel.app/?username=Gennadiyev&column=7&theme=onedark)
 
+## Commissioning
+
+✔️ **Open for Commissions**
+
+If you need assistance in the following areas, please feel free to reach out:
+
+- UI/UX design (mobile and/or web)
+- Game design (level design, gameplay design, and/or game testing)
+- Machine learning-related tasks
+
+You can contact me at [jiyikun2002@gmail.com](mailto:jiyikun2002@gmail.com) (remove the first `@`) for opinions, assistance, and more. I am also available for hire!
+
+General inquiries are free, with further assistance billed at $50/hr via appointment.
+
 *Note: I use separate accounts for my offline code repositories, so some of the code-related commits that Kunologist (me) works on are not recorded under this GitHub account.*
