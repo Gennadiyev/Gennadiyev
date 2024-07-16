@@ -24,7 +24,7 @@ If you need assistance in the following areas, please feel free to reach out:
 - Game design (level design, gameplay design, and/or game testing)
 - Machine learning-related tasks
 
-You can contact me at [jiyikun2002@gmail.com](mailto:jiyikun2002@gmail.com) (remove the first `@`) for opinions, assistance, and more. I am also available for hire!
+You can contact me at [jiyikun@2002@gmail.com](mailto:jiyikun2002@gmail.com) (remove the first `@`) for opinions, assistance, and more. I am also available for hire!
 
 General inquiries are free, with further assistance billed at $50/hr via appointment.
 
